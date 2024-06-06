@@ -1,0 +1,1 @@
+This project aims to build a model to detect fraudulent credit card transactions. The model will help in identifying and preventing fraudulent activities by analyzing transaction data and distinguishing between legitimate and fraudulent transactions.
