@@ -16,7 +16,7 @@ import sys
 import scipy
 
 # load the dataset using pandas
-data = pd.read_csv(r'C:\Users\Ravi\Downloads\creditcardfraud\creditcard.csv')
+data = pd.read_csv(r'C:\Users\Srujan\Downloads\creditcardfraud\creditcard.csv')
 
 # dataset exploring
 print(data.columns)
